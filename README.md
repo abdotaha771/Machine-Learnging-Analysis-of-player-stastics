@@ -1,4 +1,4 @@
-# Machine-Learnging-Analysis-of-player-stastics
+# Machine-Learning-Analysis-of-player-stastics
 Football Players Analysis Project
 This project provides a comprehensive analysis of football players across top leagues, utilizing advanced data processing and machine learning techniques. It aims to deliver insights on player performance metrics, enabling effective comparisons and visualizations.
 
